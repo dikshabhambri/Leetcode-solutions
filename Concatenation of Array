@@ -10,6 +10,7 @@ class Solution {
               ans [i] = nums[i];
           }
           else{
+            
               ans [i] = nums[i-nums.length];
           }
       }
