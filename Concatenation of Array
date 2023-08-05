@@ -12,9 +12,10 @@ class Solution {
           else{
 
               ans [i] = nums[i-nums.length];
-              
+
           }
       }
+      
       return ans;
     }
 }
