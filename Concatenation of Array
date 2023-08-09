@@ -14,6 +14,7 @@ class Solution {
               ans [i] = nums[i-nums.length];
           }
       }
+      
       return ans;
     }
 }
